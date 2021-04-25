@@ -2,6 +2,6 @@ public class Demo3
 {
 public static void main(String[] args)
 {
-System.out.println(" Demo2 Program");
+System.out.println("Demo2 Program-Confi");
 }
 }
